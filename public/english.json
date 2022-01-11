@@ -1,0 +1,185 @@
+[
+    
+   
+    
+    {
+      "_id": "61c626cc3625407ed7c08cb7",
+      "index": 3,
+      "guid": "38307501-2c52-4dac-9484-d68571ceb40d",
+      "isActive": true,
+      "price": "$30",
+      "picture": "./images/beginner.jpg",
+      "age": 37,
+      "eyeColor": "blue",
+      "name": "English for Beginers",
+      "gender": "male",
+      "company": "WEBIOTIC",
+      "email": "quinncash@webiotic.com",
+      "phone": "+1 (973) 519-3587",
+      "address": "403 Ainslie Street, Kirk, Connecticut, 5570",
+      "about": "Our best English course for starter level.",
+      "registered": "2015-04-13T12:24:05 -06:00",
+      "latitude": -22.659047,
+      "longitude": 144.577356,
+      "tags": [
+        "ex",
+        "ad",
+        "consectetur",
+        "aliqua",
+        "voluptate",
+        "eu",
+        "sunt"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Augusta Kidd"
+        },
+        {
+          "id": 1,
+          "name": "Shelia Cole"
+        },
+        {
+          "id": 2,
+          "name": "Bette Hicks"
+        }
+      ],
+      "greeting": "Hello, Quinn Cash! You have 5 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "61c626ccef3f6f31fd82cf96",
+      "index": 4,
+      "guid": "316e5e1e-578d-4a5a-a980-7509f6136503",
+      "isActive": true,
+      "price": "$45",
+      "picture": "./images/online.jpg",
+      "age": 22,
+      "eyeColor": "green",
+      "name": "Online Learning ",
+      "gender": "male",
+      "company": "QUILITY",
+      "email": "glenncontreras@quility.com",
+      "phone": "+1 (907) 523-2663",
+      "address": "942 Bulwer Place, Kenmar, Rhode Island, 2808",
+      "about": "Perfect if you prefer distance education.\r\n",
+      "registered": "2015-06-08T06:29:08 -06:00",
+      "latitude": 12.719838,
+      "longitude": -48.18338,
+      "tags": [
+        "occaecat",
+        "commodo",
+        "ex",
+        "excepteur",
+        "ea",
+        "deserunt",
+        "esse"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Vang Dixon"
+        },
+        {
+          "id": 1,
+          "name": "Glenda Shaffer"
+        },
+        {
+          "id": 2,
+          "name": "Coleen Richmond"
+        }
+      ],
+      "greeting": "Hello, Glenn Contreras! You have 2 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "_id": "61c626cc245211bab650bd0a",
+      "index": 5,
+      "guid": "9dfed8fd-cc2c-4b78-817f-29eb274704c2",
+      "isActive": true,
+      "price": "$50",
+      "picture": "./images/advance.jpg",
+      "age": 31,
+      "eyeColor": "green",
+      "name": "English for Business",
+      "gender": "female",
+      "company": "GRONK",
+      "email": "corrinevaughan@gronk.com",
+      "phone": "+1 (804) 536-3364",
+      "address": "107 Walker Court, Jessie, Ohio, 3246",
+      "about": "Business English course designed for managers.\r\n",
+      "registered": "2021-01-17T11:21:06 -06:00",
+      "latitude": -58.989713,
+      "longitude": 117.473507,
+      "tags": [
+        "excepteur",
+        "voluptate",
+        "dolore",
+        "tempor",
+        "non",
+        "id",
+        "sint"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Ray Sheppard"
+        },
+        {
+          "id": 1,
+          "name": "Hutchinson Harding"
+        },
+        {
+          "id": 2,
+          "name": "Cross Hodges"
+        }
+      ],
+      "greeting": "Hello, Corrine Vaughan! You have 5 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "61c626cd0e9dce7469477044",
+      "index": 6,
+      "guid": "f61db5cf-bb18-4b3b-b3fa-0ddf56e97db0",
+      "isActive": true,
+      "price": "$20",
+      "picture": "./images/kids.jpg",
+      "age": 28,
+      "eyeColor": "green",
+      "name": "English For kids",
+      "gender": "female",
+      "company": "ESCENTA",
+      "email": "lindseycameron@escenta.com",
+      "phone": "+1 (969) 419-2256",
+      "address": "910 Everett Avenue, Kent, Mississippi, 2239",
+      "about": "Easy-to-learn English course for children.\r\n",
+      "registered": "2019-05-13T09:56:38 -06:00",
+      "latitude": 53.599996,
+      "longitude": 116.620032,
+      "tags": [
+        "labore",
+        "incididunt",
+        "nisi",
+        "excepteur",
+        "nisi",
+        "fugiat",
+        "id"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Farley Bowen"
+        },
+        {
+          "id": 1,
+          "name": "Leola Wall"
+        },
+        {
+          "id": 2,
+          "name": "Huff Ray"
+        }
+      ],
+      "greeting": "Hello, Lindsey Cameron! You have 4 unread messages.",
+      "favoriteFruit": "strawberry"
+    }
+  ]
