@@ -10,6 +10,7 @@ import Services from './components/Services/Services';
 import NotFound from './components/NotFound/NotFound';
 import Footer from './components/Footer/Footer';
 import Blogs from './components/Blogs/Blogs';
+import Service from './components/Service/Service';
 
 function App() {
  
@@ -21,6 +22,7 @@ function App() {
         <Route path ="/" element={<Home/>}/> 
         <Route path ="/about" element={<About/>}/> 
         <Route path ="/services" element={<Services/>}/> 
+        {/* <Route path ="/service/:serviceId" element={<Service/>}/>  */}
         <Route path ="*" element={<NotFound/>}/> 
         <Route path ="/blogs" element={<Blogs/>}/> 
         <Route path ="/" element={<Home/>}/> 

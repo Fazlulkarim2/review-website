@@ -1,11 +1,13 @@
 import React from 'react';
-import { Card, Col } from 'react-bootstrap';
+import { Button, Card, Col } from 'react-bootstrap';
 import Services from '../Services/Services';
 
 const Service = (props) => {
     const {picture,name,price,email} = props.courseName;
+    
     return (
-        
+    
+    
              <Col>
       <Card className='ms-5 me-5 border border-warning bg-success '>
         <Card.Img variant="top" src={picture} />

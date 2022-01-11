@@ -3,7 +3,7 @@
    
     
     {
-      "_id": "61c626cc3625407ed7c08cb7",
+      "id": "1",
       "index": 3,
       "guid": "38307501-2c52-4dac-9484-d68571ceb40d",
       "isActive": true,
@@ -48,7 +48,7 @@
       "favoriteFruit": "strawberry"
     },
     {
-      "_id": "61c626ccef3f6f31fd82cf96",
+      "id": "2",
       "index": 4,
       "guid": "316e5e1e-578d-4a5a-a980-7509f6136503",
       "isActive": true,
@@ -93,7 +93,7 @@
       "favoriteFruit": "banana"
     },
     {
-      "_id": "61c626cc245211bab650bd0a",
+      "id": "3",
       "index": 5,
       "guid": "9dfed8fd-cc2c-4b78-817f-29eb274704c2",
       "isActive": true,
@@ -138,7 +138,7 @@
       "favoriteFruit": "strawberry"
     },
     {
-      "_id": "61c626cd0e9dce7469477044",
+      "id": "4",
       "index": 6,
       "guid": "f61db5cf-bb18-4b3b-b3fa-0ddf56e97db0",
       "isActive": true,
@@ -184,7 +184,7 @@
     },
 
     {
-        "_id": "61c626cc3625407ed7c08cb7",
+        "id": "5",
         "index": 3,
         "guid": "38307501-2c52-4dac-9484-d68571ceb40d",
         "isActive": true,
@@ -229,7 +229,7 @@
         "favoriteFruit": "strawberry"
       },
       {
-        "_id": "61c626cc3625407ed7c08cb7",
+        "id": "6",
         "index": 3,
         "guid": "38307501-2c52-4dac-9484-d68571ceb40d",
         "isActive": true,

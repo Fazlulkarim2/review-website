@@ -10,7 +10,9 @@ const Header = () => {
     fontSize:"15px"
   }
     return (
+      
         <div className='mb-4 ' >
+          <h1> English learning With Fun</h1>
         <Navbar bg="info" >
     <Container>
     

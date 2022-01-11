@@ -16,7 +16,9 @@ const Courses = () => {
 
 <Row  xs={1} md={2} className="g-4">
 {
-        categories.map(categorie=><Card categorie={categorie}></Card>)
+        categories.map(categorie=><Card
+            key= {categorie.key}
+            categorie={categorie}></Card>)
     } 
 </Row>
 
